@@ -1,11 +1,11 @@
 ## Hi there 👋
  
 
-- 🔭 I’m currently working on Ingenieria de Calidad de Software
-- 🌱 I’m currently learning Automatización de pruebas con herramientas como Jira, Azure Devops, Postman.
-- 👯 I’m looking to collaborate on Proyectos de aseguramiento de calidad, pruebas automatizadas.
-- 🤔 I’m looking for help with Mejores prácticas en CI/CD, frameworks de automatización y pruebas de rendimiento.
-- 💬 Ask me about Pruebas manuales y automatizadas, diseño de casos de prueba, metodologías ágiles (Scrum)
+- 🔭 I’m currently working on Software Quality Engineering
+- 🌱 I’m currently learning Test automation with tools like Jira, Azure DevOps, and Postman.
+- 👯 I’m looking to collaborate on Quality assurance projects, automated testing.
+- 🤔 I’m looking for help with Practices in CI/CD, automation frameworks, and performance testing.
+- 💬 Ask me about Manual and automated testing, test case design, methodology (agile/Scrum).
 - 📫 How to reach me: alcantarabianca599@gmail.com
 - 😄 Pronouns: She
-- ⚡ Fun fact: Disfruto encontrar errores antes que los usuarios… y también aprender nuevas herramientas para hacer mi trabajo más eficiente.
+- ⚡ Fun fact: I enjoy finding bugs before the users do… and also learning new tools to make my work more efficient.
